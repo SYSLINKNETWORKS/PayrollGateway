@@ -1,0 +1,134 @@
+{
+  "SwaggerEndPoints": [
+    {
+      "Key": "Auth",
+      "Config": [
+        {
+          "Name": "Auth API",
+          "Version": "v1",
+          "Service": {
+            "Name": "Auth",
+            "Path": "/swagger/v1/swagger.json"
+          }
+        }
+      ]
+    },
+    {
+      "Key": "Backup",
+      "Config": [
+        {
+          "Name": "Backup API",
+          "Version": "v1",
+          "Service": {
+            "Name": "Backup",
+            "Path": "/swagger/v1/swagger.json"
+          }
+        }
+      ]
+    },
+    {
+      "Key": "Log",
+      "Config": [
+        {
+          "Name": "Log API",
+          "Version": "v1",
+          "Service": {
+            "Name": "Log",
+            "Path": "/swagger/v1/swagger.json"
+          }
+        }
+      ]
+    },
+    {
+      "Key": "Notification",
+      "Config": [
+        {
+          "Name": "Notification API",
+          "Version": "v1",
+          "Service": {
+            "Name": "Notification",
+            "Path": "/swagger/v1/swagger.json"
+          }
+        }
+      ]
+    },
+    {
+      "Key": "Accounts",
+      "Config": [
+        {
+          "Name": "Accounts API",
+          "Version": "v1",
+          "Service": {
+            "Name": "Accounts",
+            "Path": "/swagger/v1/swagger.json"
+          }
+        }
+      ]
+    },
+    {
+      "Key": "Inventory",
+      "Config": [
+        {
+          "Name": "Inventory API",
+          "Version": "v1",
+          "Service": {
+            "Name": "Inventory",
+            "Path": "/swagger/v1/swagger.json"
+          }
+        }
+      ]
+    },
+    {
+      "Key": "Payroll",
+      "Config": [
+        {
+          "Name": "Payroll API",
+          "Version": "v1",
+          "Service": {
+            "Name": "Payroll",
+            "Path": "/swagger/v1/swagger.json"
+          }
+        }
+      ]
+    },
+    {
+      "Key": "Production",
+      "Config": [
+        {
+          "Name": "Production API",
+          "Version": "v1",
+          "Service": {
+            "Name": "Production",
+            "Path": "/swagger/v1/swagger.json"
+          }
+        }
+      ]
+    },
+    {
+      "Key": "Sales",
+      "Config": [
+        {
+          "Name": "Sales API",
+          "Version": "v1",
+          "Service": {
+            "Name": "Sales",
+            "Path": "/swagger/v1/swagger.json"
+          }
+        }
+      ]
+    },
+    {
+      "Key": "Procurement",
+      "Config": [
+        {
+          "Name": "Procurement API",
+          "Version": "v1",
+          "Service": {
+            "Name": "Procurement",
+            "Path": "/swagger/v1/swagger.json"
+          }
+        }
+      ]
+    }
+  ]
+}

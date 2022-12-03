@@ -1,0 +1,11 @@
+{
+  "Routes": [
+    {
+      "DownstreamPathTemplate": "/ws",
+      "ServiceName": "Notification",
+      "UpstreamPathTemplate": "/",
+      "DownstreamScheme": "ws",
+      "SwaggerKey": "Notification"
+    }
+  ]
+}
